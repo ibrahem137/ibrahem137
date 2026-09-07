@@ -91,22 +91,23 @@ A Laravel REST API that powers the platform's authentication, products, supplier
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Connect With Me
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ibrahem137&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
-    alt="Ibrahem's GitHub Stats"
-    height="165"
-  />
+<p align="left">
+  <a href="mailto:ibrahemalhuossienbusiness@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ibrahem-alhuossien-92b0a5379">
+    <img src="https://img.shields.io/badge/LinkedIn-Ibrahem_Alhuossien-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://wa.me/qr/X4CDYSMGTCPXD1">
+    <img src="https://img.shields.io/badge/WhatsApp-Message_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://www.instagram.com/ibrahem.h137">
+    <img src="https://img.shields.io/badge/Instagram-ibrahem.h137-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
 ---
 
-## 📫 Connect With Me
-
-**GitHub:** [@ibrahem137](https://github.com/ibrahem137)
-
----
-
-### Always learning, building, and improving.
+**Always learning, building, and improving.**
