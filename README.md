@@ -52,20 +52,27 @@ Currently working on a **B2B Smart Ordering System for Supermarkets**, consistin
 
 ### 🛒 B2B Smart Ordering System for Supermarkets
 
-A platform designed to improve the ordering workflow between supermarkets and suppliers through centralized product management, supplier offers, purchase orders, inventory operations, sales monitoring, and business analytics.
+A complete B2B platform designed to improve the ordering workflow between supermarkets and suppliers through centralized product management, supplier offers, purchase orders, inventory operations, sales monitoring, and business analytics.
 
-The system consists of three main components:
+The system consists of three integrated components:
 
-**📊 Admin Dashboard**  
-Flutter-based responsive web dashboard for managing suppliers, stores, categories, products, supplier offers, purchase orders, sales, and analytics.
+### 📊 [Admin Dashboard](https://github.com/ibrahem137/B2B-Smart-Ordering-System-Dashboard)
 
-**📱 Supermarket Mobile App**  
-Flutter mobile application that allows supermarkets to browse supplier offers, manage their catalog and inventory, create purchase orders, track transactions, and manage their account.
+A responsive Flutter web dashboard for administrators to manage suppliers, stores, categories, master products, supplier products, supplier offers, purchase orders, sales, and business analytics.
 
-**⚙️ Backend API**  
-Laravel REST API responsible for authentication, business logic, database operations, orders, inventory, supplier offers, sales, and communication between the applications.
+**Tech:** Flutter • Dart • Cubit/Bloc • Dio • Retrofit • Freezed • GetIt • Material 3
 
-**Technologies:** Flutter • Dart • Cubit/Bloc • Clean Architecture • Dio • Retrofit • Freezed • GetIt • Laravel • REST API
+### 📱 [Supermarket Mobile App](https://github.com/ibrahem137/B2B-Smart-Ordering-System-Mobile-App)
+
+A Flutter mobile application for supermarkets to browse supplier offers, manage their catalog and inventory, create and track purchase orders, monitor transactions, and manage their account.
+
+**Tech:** Flutter • Dart • Clean Architecture • Cubit/Bloc • Dio • Retrofit • Hive • Secure Storage
+
+### ⚙️ [Backend API](https://github.com/ibrahem137/B2B-Smart-Ordering-System-Backend)
+
+A Laravel REST API that powers the platform's authentication, products, suppliers, stores, offers, orders, inventory, sales, ledger, and business logic.
+
+**Tech:** Laravel • PHP • REST API • Authentication • Database Management
 
 ---
 
