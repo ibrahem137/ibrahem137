@@ -93,9 +93,13 @@ A Laravel REST API that powers the platform's authentication, products, supplier
 
 ## 📊 GitHub Stats
 
-![Ibrahem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrahem137&show_icons=true&hide_border=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahem137&layout=compact&hide_border=true&theme=transparent)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ibrahem137&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
+    alt="Ibrahem's GitHub Stats"
+    height="165"
+  />
+</p>
 
 ---
 
